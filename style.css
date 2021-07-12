@@ -37,6 +37,17 @@ body{
   border-radius: 0.5rem;
   font-size:150%;
  }
+ .space{
+  padding:3rem;
+
+}
+footer{
+ border: 2px solid black;
+ text-align: center ;
+ padding:8rem;
+ background-color:yellow;
+ font-size: 150%;
+}
 @media screen and (max-width:600px){
   .txt{
     width:80%;
@@ -50,15 +61,15 @@ body{
   .mainbody{
     margin-left: 7%;
  }
- .space {
+ .space{
   padding:1rem;
 }
 footer{
   /* border: 2px solid black; */
-  text-align: center ;
+  text-align:center;
   padding:4rem;
   /* background-color:yellow; */
-  font-size: 100%;
+  font-size:100%;
 }
  #Translate {
   padding:0.2rem 1rem;
@@ -71,14 +82,3 @@ footer{
 }
   
 
- .space{
-   padding:3rem;
-
- }
- footer{
-  border: 2px solid black;
-  text-align: center ;
-  padding:8rem;
-  background-color:yellow;
-  font-size: 150%;
-}
