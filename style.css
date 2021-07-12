@@ -31,8 +31,8 @@ body{
 
  .txt{
   border-style:ridge;
-  height:9rem;
-  width:50rem;
+  height:150px;
+  width:60%;
   padding:2rem;
   border-radius: 0.5rem;
   font-size:150%;
