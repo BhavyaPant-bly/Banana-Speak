@@ -54,7 +54,8 @@ footer{
 }
 @media screen and (max-width:600px){
   :root{
-    --primary-color:rgb(228, 169, 8);;
+    --primary-color:#f3db08;
+    /* rgb(228, 169, 8); */
   }
   .txt{
     width:80%;
