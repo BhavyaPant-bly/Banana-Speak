@@ -1,2 +1,2 @@
 # Banana-Speak
- This repository converts text in enlgish to banana speak
+ This repository contains code for a Web App made using Vanilla Javascript that converts text in enlgish to minion language
